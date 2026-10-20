@@ -1,0 +1,25 @@
+v 3
+d xtutest: Test for an inverse U (or U) and estimate the turning point in heterogeneous panels
+d
+d CCE mean-group (Pesaran 2006) intersection-union test of Lind and Mehlum (2010) for an
+d inverse U- or U-shaped relationship in panels with heterogeneous slopes and common
+d factors; turning point of the mean curve with Fieller and delta intervals; median of the
+d unit turning points with an order-statistic interval; Pesaran CD test; pooled
+d fixed-effects comparison; graphs. Unbalanced panels allowed. Version 1.2.0 adds CCE pooled, fixed-effects, random-effects,
+d fixed-effects IV and system GMM variants, and residual diagnostics (serial
+d correlation, heteroskedasticity, normality, stability) for every estimator.
+d
+d Author: Yusuf Toyin Yusuf, Kwara State University
+d Support: yusuf.yusuf@kwasu.edu.ng
+d
+d Distribution-Date: 20261020
+d Stata version 14
+f xtutest.ado
+f _xtutest_display.ado
+f _xtutest_load.ado
+f _xtutest_mata.ado
+f _xtutest_pooled.ado
+f xtutest_graph.ado
+f xtutest.sthlp
+f xtutest_example.do
+f xtutest_apec.dta

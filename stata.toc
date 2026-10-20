@@ -1,0 +1,3 @@
+v 3
+d Yusuf Toyin Yusuf, Kwara State University
+p xtutest Test for an inverse U and its turning point in heterogeneous panels
